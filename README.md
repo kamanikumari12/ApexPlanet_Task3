@@ -1,4 +1,3 @@
-# ApexPlanet_Task3
 # 📊 ApexPlanet Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 
 ## Overview
